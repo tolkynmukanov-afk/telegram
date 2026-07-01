@@ -1,1 +1,1 @@
-worker: python telegram_bot_fixed_full.py
+worker: python telegram_bot_3_cities.py
